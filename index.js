@@ -20,9 +20,9 @@ var argresult = args.join(' ');
 client.on('ready',()=>{
     console.log(' Bot is online now!');
     let statuses = [
-        "  STATUS HERE ",
-        "  STATUS HERE ",
-        "  STATUS HERE " // U can add another
+        "Real",
+        "Free Nitro",
+        "Inviter Rewards" // U can add another
         
     ]
     setInterval(function(){
@@ -35,4 +35,4 @@ client.on('ready',()=>{
 
 });
 
-client.login("YOUR TOKEN HERE");
+client.login("MK3lkv2_Bw8bsKUAd0gBO5N3qKJNTAt-");
